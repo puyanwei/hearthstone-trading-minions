@@ -4,6 +4,8 @@ _This is my first kata I have created on [codewars](https://www.codewars.com). C
 
 [Hearthstone](https://playhearthstone.com) is one of my favourite games! It is a card game based on the characters of World of Warcraft.
 
+![](https://user-images.githubusercontent.com/14803518/43685084-42aedbc0-98a4-11e8-9fe5-e883dd7aef87.png)
+
 In Hearthstone, each player has cards that they put on the board. Each card is a minion that has stats of attack and health, and the turn after it has been played they are able to trade with the opponent's minions.
 
 ```
@@ -34,7 +36,7 @@ Write a function that will output the board state after trades has happened.
 -   The second board state always trades into the first.
 -   Minions always trade with the enemy minions directly in front of them.
 
-Another Example;
+### Another Example;
 
 ```
 tradeMinions([[2, 2], [3, 3], [1, 6]], [[3, 6], [3, 9], [1, 1]]);
@@ -48,5 +50,11 @@ output
   hero: [[3, 4], [3, 6]]
 }
 ```
+
+### Testing
+
+The test suite on codewars seems to be custom made framework inspired by Mocha and RSpec, which I cannot import. So I decided to use Jasmine since it works right off the bat!
+
+Get those tests passing, edit the code, save it and open `SpecRunner.html` to see the tests.
 
 Try and keep to the usual great coding practices! Short isn't necessarily sweet, but readability is king!
