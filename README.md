@@ -61,7 +61,7 @@ open SpecRunner.html
 
 The test suite on codewars seems to be custom made framework inspired by Mocha and RSpec, which I cannot import. So I decided to use Jasmine since it works right off the bat!
 
-Get those tests passing, edit the code, save it and open `SpecRunner.html` to see the tests. I'll probably add more tests later on, so keep an eye on this repo!
+Get those tests passing, edit the code, save it and open `SpecRunner.html` to see the tests.
 
 Try and keep to the usual great coding practices! Feel free to write more functions and I suggest using ES6 functional programming.
 
