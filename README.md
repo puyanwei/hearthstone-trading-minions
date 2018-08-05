@@ -1,6 +1,6 @@
 # Welcome to the Inn! - Hearthstone Minion Trading
 
-_This is my first kata I have created on [codewars](https://www.codewars.com). Check it out here._
+_This is my first kata I have created on [codewars](https://www.codewars.com). Check it out [here](https://www.codewars.com/kata/5b6598839756804e5c00005a)._
 
 [Hearthstone](https://playhearthstone.com) is one of my favourite games! It is a card game based on the characters of World of Warcraft.
 
